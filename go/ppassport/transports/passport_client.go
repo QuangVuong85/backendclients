@@ -5,7 +5,7 @@ import (
 	"github.com/OpenStars/backendclients/go/ppassport/thrift/gen-go/OpenStars/Platform/Passport"
 	"github.com/apache/thrift/lib/go/thrift"
 	"fmt"
-	"github.com/OpenStars/thriftpool"	
+	"github.com/OpenStars/thriftpoolv2"
 	)
 
 
