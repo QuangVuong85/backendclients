@@ -3,7 +3,7 @@ package transports
 import (
 	"log"
 
-	"github.com/OpenStars/backendclients/go/tmediacloudservice/thrift/gen-go/openstars/mcloud"
+	"github.com/QuangVuong85/backendclients/go/tmediacloudservice/thrift/gen-go/openstars/mcloud"
 	"github.com/OpenStars/thriftpoolv2"
 	"github.com/apache/thrift/lib/go/thrift"
 )

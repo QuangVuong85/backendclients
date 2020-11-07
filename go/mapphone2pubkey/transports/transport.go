@@ -1,10 +1,10 @@
 package transports
 
 import (
-	// "github.com/OpenStars/backendclients/go//gen-go/OpenStars/Common/MapPhoneNumberPubkeyKV" //Todo: Fix this
+	// "github.com/QuangVuong85/backendclients/go//gen-go/OpenStars/Common/MapPhoneNumberPubkeyKV" //Todo: Fix this
 	"fmt"
 
-	"github.com/OpenStars/backendclients/go/mapphone2pubkey/thrift/gen-go/OpenStars/Common/MapPhoneNumberPubkeyKV" //Todo: Fix this
+	"github.com/QuangVuong85/backendclients/go/mapphone2pubkey/thrift/gen-go/OpenStars/Common/MapPhoneNumberPubkeyKV" //Todo: Fix this
 	thriftpool "github.com/OpenStars/thriftpoolv2"
 	"github.com/apache/thrift/lib/go/thrift"
 )

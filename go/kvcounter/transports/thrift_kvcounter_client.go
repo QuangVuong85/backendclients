@@ -3,7 +3,7 @@ package transports
 import (
 	"fmt"
 
-	"github.com/OpenStars/backendclients/go/kvcounter/thrift/gen-go/OpenStars/Counters/KVStepCounter"
+	"github.com/QuangVuong85/backendclients/go/kvcounter/thrift/gen-go/OpenStars/Counters/KVStepCounter"
 	thriftpool "github.com/OpenStars/thriftpoolv2"
 	"github.com/apache/thrift/lib/go/thrift"
 )

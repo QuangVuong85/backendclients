@@ -1,7 +1,7 @@
 package main
 import (
-	"github.com/OpenStars/backendclients/go/s2i64kv/thrift/gen-go/OpenStars/Common/S2I64KV"
-	"github.com/OpenStars/backendclients/go/s2i64kv/transports"
+	"github.com/QuangVuong85/backendclients/go/s2i64kv/thrift/gen-go/OpenStars/Common/S2I64KV"
+	"github.com/QuangVuong85/backendclients/go/s2i64kv/transports"
 	"fmt"
 	"context"
 )

@@ -1,7 +1,7 @@
 package main
 import (
-	"github.com/OpenStars/backendclients/go/ppassport/thrift/gen-go/OpenStars/Platform/Passport"
-	"github.com/OpenStars/backendclients/go/ppassport/transports"
+	"github.com/QuangVuong85/backendclients/go/ppassport/thrift/gen-go/OpenStars/Platform/Passport"
+	"github.com/QuangVuong85/backendclients/go/ppassport/transports"
 	"fmt"
 	"context"
 )

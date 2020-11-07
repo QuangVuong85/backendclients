@@ -1,10 +1,10 @@
 package transports
 
 import (
-	"github.com/OpenStars/backendclients/go/i2skv/thrift/gen-go/OpenStars/Common/I2SKV"
+	"github.com/QuangVuong85/backendclients/go/i2skv/thrift/gen-go/OpenStars/Common/I2SKV"
 	"github.com/apache/thrift/lib/go/thrift"
 
-	// "github.com/OpenStars/backendclients/go//gen-go/OpenStars/Common/I2SKV" //Todo: Fix this
+	// "github.com/QuangVuong85/backendclients/go//gen-go/OpenStars/Common/I2SKV" //Todo: Fix this
 	"fmt"
 
 	thriftpool "github.com/OpenStars/thriftpoolv2"

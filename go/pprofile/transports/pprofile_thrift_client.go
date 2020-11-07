@@ -2,7 +2,7 @@ package transports
 
 
 import (
-	"github.com/OpenStars/backendclients/go/pprofile/thrift/gen-go/OpenStars/Platform/Profile"
+	"github.com/QuangVuong85/backendclients/go/pprofile/thrift/gen-go/OpenStars/Platform/Profile"
 	"git.apache.org/thrift.git/lib/go/thrift"
 	"fmt"
 	thriftpool "github.com/OpenStars/thriftpool"	

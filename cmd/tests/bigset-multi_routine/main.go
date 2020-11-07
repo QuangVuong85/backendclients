@@ -1,8 +1,8 @@
 package main
 import (
-	"github.com/OpenStars/backendclients/go/bigset/thrift/gen-go/openstars/core/bigset/generic"
+	"github.com/QuangVuong85/backendclients/go/bigset/thrift/gen-go/openstars/core/bigset/generic"
 
-	"github.com/OpenStars/backendclients/go/bigset/transports"
+	"github.com/QuangVuong85/backendclients/go/bigset/transports"
 	"fmt"
 	"context"
 	"os"

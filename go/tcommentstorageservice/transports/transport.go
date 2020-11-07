@@ -1,11 +1,11 @@
 package transports
 
 import (
-	// "github.com/OpenStars/backendclients/go//gen-go/OpenStars/Common/TCommentStorageService" //Todo: Fix this
+	// "github.com/QuangVuong85/backendclients/go//gen-go/OpenStars/Common/TCommentStorageService" //Todo: Fix this
 
 	"fmt"
 
-	"github.com/OpenStars/backendclients/go/tcommentstorageservice/thrift/gen-go/OpenStars/Common/TCommentStorageService"
+	"github.com/QuangVuong85/backendclients/go/tcommentstorageservice/thrift/gen-go/OpenStars/Common/TCommentStorageService"
 	"github.com/OpenStars/thriftpoolv2"
 	"github.com/apache/thrift/lib/go/thrift"
 )

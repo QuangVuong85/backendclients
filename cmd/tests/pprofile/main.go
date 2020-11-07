@@ -1,7 +1,7 @@
 package main
 import (
-	"github.com/OpenStars/backendclients/go/pprofile/thrift/gen-go/OpenStars/Platform/Profile"
-	"github.com/OpenStars/backendclients/go/pprofile/transports"
+	"github.com/QuangVuong85/backendclients/go/pprofile/thrift/gen-go/OpenStars/Platform/Profile"
+	"github.com/QuangVuong85/backendclients/go/pprofile/transports"
 	"fmt"
 	"context"
 )

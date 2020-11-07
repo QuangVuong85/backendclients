@@ -2,7 +2,7 @@ package transports
 
 import (
 	"git.apache.org/thrift.git/lib/go/thrift"
-	"github.com/OpenStars/backendclients/go/i64listi64/thrift/gen-go/OpenStars/Common/list/i64listi64"
+	"github.com/QuangVuong85/backendclients/go/i64listi64/thrift/gen-go/OpenStars/Common/list/i64listi64"
 	thriftpool "github.com/OpenStars/thriftpool"
 )
 

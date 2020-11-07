@@ -3,7 +3,7 @@ package transports
 import (
 	"log"
 
-	"github.com/OpenStars/backendclients/go/tpoststorageservice/thrift/gen-go/OpenStars/Common/TPostStorageService"
+	"github.com/QuangVuong85/backendclients/go/tpoststorageservice/thrift/gen-go/OpenStars/Common/TPostStorageService"
 	"github.com/OpenStars/thriftpoolv2"
 	"github.com/apache/thrift/lib/go/thrift"
 )

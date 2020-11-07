@@ -1,7 +1,7 @@
 package transports
 
 import (
-	"github.com/OpenStars/backendclients/go/treportstorageservice/thrift/gen-go/OpenStars/Common/TReportStorageService"
+	"github.com/QuangVuong85/backendclients/go/treportstorageservice/thrift/gen-go/OpenStars/Common/TReportStorageService"
 	"log"
 
 	"github.com/OpenStars/thriftpoolv2"

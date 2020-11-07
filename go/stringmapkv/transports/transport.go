@@ -1,12 +1,12 @@
 package transports
 
 import (
-	// "github.com/OpenStars/backendclients/go//gen-go/OpenStars/Common/StringMapKV" //Todo: Fix this
+	// "github.com/QuangVuong85/backendclients/go//gen-go/OpenStars/Common/StringMapKV" //Todo: Fix this
 	"fmt"
 
 	"github.com/apache/thrift/lib/go/thrift"
 
-	"github.com/OpenStars/backendclients/go/stringmapkv/thrift/gen-go/OpenStars/Common/StringMapKV"
+	"github.com/QuangVuong85/backendclients/go/stringmapkv/thrift/gen-go/OpenStars/Common/StringMapKV"
 	thriftpool "github.com/OpenStars/thriftpoolv2"
 )
 

@@ -1,7 +1,7 @@
 package main
 import (
-	"github.com/OpenStars/backendclients/go/kvcounter/thrift/gen-go/OpenStars/Counters/KVStepCounter"
-	"github.com/OpenStars/backendclients/go/kvcounter/transports"
+	"github.com/QuangVuong85/backendclients/go/kvcounter/thrift/gen-go/OpenStars/Counters/KVStepCounter"
+	"github.com/QuangVuong85/backendclients/go/kvcounter/transports"
 	"fmt"
 	"context"
 )

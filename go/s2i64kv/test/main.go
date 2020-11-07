@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/OpenStars/backendclients/go/s2skv/thrift/gen-go/OpenStars/Common/S2SKV"
-	"github.com/OpenStars/backendclients/go/s2skv/transports"
+	"github.com/QuangVuong85/backendclients/go/s2skv/thrift/gen-go/OpenStars/Common/S2SKV"
+	"github.com/QuangVuong85/backendclients/go/s2skv/transports"
 )
 
 func TestPutPubkey2Uid() {
